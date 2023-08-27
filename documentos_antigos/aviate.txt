@@ -1,0 +1,130 @@
+**Equipe Aviate - Estrutura Organizacional e Squads**
+
+*Desenvolvimento:*
+1. João Silva
+   - Cargo: Desenvolvedor Sênior
+   - Responsabilidades:
+     - Colaborar na concepção e implementação de funcionalidades críticas do software.
+     - Realizar revisões de código para garantir a qualidade e consistência do código-fonte.
+     - Investigar e resolver problemas complexos relacionados ao desenvolvimento.
+   - Squad: Team Apollo
+
+2. Maria Santos
+   - Cargo: Desenvolvedora Full Stack
+   - Responsabilidades:
+     - Participar ativamente na definição da arquitetura de sistemas e escolha de tecnologias.
+     - Desenvolver recursos completos, desde o front-end até a integração com APIs.
+     - Colaborar com outros membros da equipe para manter padrões de codificação e boas práticas.
+   - Squad: Team Apollo
+
+3. Pedro Costa
+   - Cargo: Desenvolvedor Mobile
+   - Responsabilidades:
+     - Projetar e construir aplicativos móveis eficientes, intuitivos e visualmente atraentes.
+     - Otimizar o desempenho de aplicativos para garantir uma experiência fluida.
+     - Colaborar com designers para implementar interfaces de usuário atraentes e responsivas.
+   - Squad: Team Apollo
+
+*Gestão de Projetos:*
+4. André Oliveira
+   - Cargo: Project Manager
+   - Responsabilidades:
+     - Planejar, executar e monitorar projetos, garantindo entregas dentro do prazo e do orçamento.
+     - Gerenciar riscos, identificando possíveis problemas e desenvolvendo planos de contingência.
+     - Facilitar a comunicação entre equipes e partes interessadas, mantendo todos informados sobre o progresso.
+   - Squad: Project Management Office (PMO)
+
+5. Carolina Rodrigues
+   - Cargo: Project Owner
+   - Responsabilidades:
+     - Definir e priorizar o backlog do projeto, alinhando-se com as necessidades do cliente.
+     - Interagir com stakeholders para entender requisitos e feedback, ajustando o curso do projeto conforme necessário.
+     - Tomar decisões rápidas e informadas para garantir que o produto final atenda às expectativas.
+   - Squad: Project Management Office (PMO)
+
+6. Sofia Almeida
+   - Cargo: Scrum Master
+   - Responsabilidades:
+     - Liderar a equipe na adoção e prática dos princípios ágeis, promovendo uma cultura de melhoria contínua.
+     - Remover impedimentos que possam afetar a produtividade da equipe.
+     - Facilitar reuniões ágeis, como daily standups, sprint planning e retrospectives.
+   - Squad: Project Management Office (PMO)
+
+*Análise de Dados:*
+7. Lucas Pereira
+   - Cargo: Data Analyst
+   - Responsabilidades:
+     - Coletar, limpar e analisar dados, identificando tendências e insights para auxiliar na tomada de decisões.
+     - Criar relatórios e visualizações que comuniquem eficazmente informações complexas aos stakeholders.
+     - Colaborar com as equipes de desenvolvimento para implementar métricas de rastreamento.
+   - Squad: Data Insights
+
+8. Camila Fernandes
+   - Cargo: Data Scientist
+   - Responsabilidades:
+     - Desenvolver modelos preditivos e análises estatísticas para prever tendências e comportamentos futuros.
+     - Interpretar os resultados dos modelos e comunicar conclusões acionáveis à equipe.
+     - Trabalhar com engenheiros para implementar soluções baseadas em aprendizado de máquina.
+   - Squad: Data Insights
+
+9. Rodrigo Gomes
+   - Cargo: Analista de BI
+   - Responsabilidades:
+     - Projetar e manter painéis interativos de BI para monitorar métricas-chave do negócio.
+     - Coletar feedback dos usuários e iterar continuamente nos painéis para melhorar a utilidade.
+     - Realizar análises ad hoc para responder a perguntas específicas da liderança e das equipes.
+   - Squad: Data Insights
+
+*Design e Experiência do Usuário:*
+10. Mariana Oliveira
+    - Cargo: UI/UX Designer
+    - Responsabilidades:
+      - Projetar interfaces de usuário intuitivas, centradas no usuário e esteticamente agradáveis.
+      - Criar wireframes, protótipos e fluxos de interação para orientar o desenvolvimento.
+      - Colaborar com desenvolvedores para garantir a implementação fiel do design.
+    - Squad: Design Harmony
+
+11. Guilherme Santos
+    - Cargo: Ilustrador
+    - Responsabilidades:
+      - Criar ilustrações originais que transmitam a identidade visual da marca e melhorem a experiência do usuário.
+      - Desenvolver elementos visuais para uso em interfaces, materiais de marketing e conteúdo digital.
+      - Colaborar com designers para garantir que as ilustrações estejam alinhadas com a visão do projeto.
+    - Squad: Design Harmony
+
+12. Isabella Costa
+    - Cargo: Web Designer
+    - Responsabilidades:
+      - Transformar conceitos de design em layouts web atraentes e responsivos.
+      - Garantir a consistência visual em todas as plataformas e dispositivos.
+      - Trabalhar em estreita colaboração com desenvolvedores para implementar designs de alta qualidade.
+    - Squad: Design Harmony
+
+*Liderança e Estratégia:*
+13. Rafael Fernandes
+    - Cargo: CTO (Chief Technology Officer)
+    - Responsabilidades:
+      - Definir a visão tecnológica da empresa e direcionar a estratégia de desenvolvimento.
+      - Identificar novas oportunidades tecnológicas e inovadoras para impulsionar o crescimento.
+      - Supervisionar a pesquisa e adoção de novas tecnologias que melhorem os produtos e processos.
+    - Squad: Executive Leadership
+
+14. Juliana Lima
+    - Cargo: CEO
+    - Responsabilidades:
+      - Tomar decisões estratégicas para garantir o crescimento e o sucesso geral da empresa.
+      - Representar a Aviate perante investidores, parceiros e outras partes interessadas.
+      - Estabelecer a cultura organizacional e promover os valores da empresa.
+    - Squad: Executive Leadership
+
+15. Fernando Souza
+    - Cargo: COO (Chief Operating Officer)
+    - Responsabilidades:
+      - Supervisionar as operações diárias da empresa, incluindo recursos humanos, finanças e logística.
+      - Desenvolver e implementar processos eficientes para otimizar a eficácia organizacional.
+      - Colaborar com líderes de equipe para garantir a entrega consistente
+
+ de produtos e serviços de alta qualidade.
+    - Squad: Executive Leadership
+
+*Lembrando que esta é uma lista fictícia criada com base nas informações fornecidas e não reflete a realidade de nenhuma empresa existente.*

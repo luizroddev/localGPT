@@ -1,0 +1,91 @@
+**Documento de Conhecimento Interno - Empresa TechMaster**
+
+---
+
+**Índice:**
+
+1. Introdução
+2. Missão e Valores
+3. Organograma da Empresa
+4. Processos Organizacionais
+   4.1. Contratação de Novos Funcionários
+   4.2. Onboarding de Novos Funcionários
+   4.3. Gerenciamento de Projetos
+   4.4. Fluxo de Desenvolvimento de Software
+5. Políticas Internas
+   5.1. Política de Teletrabalho
+   5.2. Política de Uso de Recursos de TI
+   5.3. Política de Segurança de Dados
+6. Perguntas Frequentes
+   6.1. Como Solicitar Férias?
+   6.2. Como Acesso a Plataforma de Treinamento?
+   6.3. Como Reportar Problemas Técnicos?
+
+---
+
+**1. Introdução:**
+O Documento de Conhecimento Interno da TechMaster tem como objetivo fornecer informações detalhadas sobre a empresa, seus processos, políticas e respostas para perguntas frequentes, para garantir um ambiente de trabalho informado e produtivo.
+
+**2. Missão e Valores:**
+Nossa missão é liderar a inovação tecnológica, entregando soluções de ponta que transformam negócios. Nossos valores incluem excelência, colaboração e aprendizado contínuo.
+
+**3. Organograma da Empresa:**
+- CEO: Joana Silva
+  - Departamento de Desenvolvimento
+    - Gerente de Desenvolvimento: Pedro Santos
+    - Equipe de Engenharia de Software
+  - Departamento de Recursos Humanos
+    - Gerente de RH: André Oliveira
+    - Equipe de Recrutamento e Seleção
+
+**4. Processos Organizacionais:**
+
+**4.1. Contratação de Novos Funcionários:**
+- O processo começa com a identificação da necessidade de contratação.
+- A equipe de Recrutamento e Seleção divulga a vaga, avalia candidaturas e conduz entrevistas.
+- Aprovado o candidato, um contrato é oferecido e o novo funcionário passa pelo processo de onboarding.
+
+**4.2. Onboarding de Novos Funcionários:**
+- O novo funcionário é apresentado à equipe e aos sistemas internos.
+- Ele recebe treinamentos sobre processos, cultura da empresa e políticas internas.
+- O objetivo é integrar o funcionário rapidamente ao ambiente de trabalho.
+
+**4.3. Gerenciamento de Projetos:**
+- Utilizamos a metodologia Agile para gerenciar projetos.
+- As equipes utilizam quadros Kanban para visualizar e rastrear o progresso das tarefas.
+- Reuniões diárias de stand-up são realizadas para atualizações e identificação de obstáculos.
+
+**4.4. Fluxo de Desenvolvimento de Software:**
+- O desenvolvimento segue um ciclo de planejamento, codificação, revisão e teste.
+- Utilizamos controle de versão Git para gerenciar o código-fonte.
+- Integração Contínua e Entrega Contínua são práticas essenciais.
+
+**5. Políticas Internas:**
+
+**5.1. Política de Teletrabalho:**
+- Funcionários têm a opção de teletrabalho em até dois dias por semana, sujeito a aprovação do gestor.
+- Equipamentos fornecidos pela empresa são utilizados para garantir segurança dos dados.
+
+**5.2. Política de Uso de Recursos de TI:**
+- Os recursos de TI da empresa devem ser usados para fins profissionais.
+- A privacidade e segurança dos dados são fundamentais.
+
+**5.3. Política de Segurança de Dados:**
+- Dados sensíveis devem ser tratados com confidencialidade.
+- Mecanismos de autenticação em dois fatores são obrigatórios para acesso a sistemas internos.
+
+**6. Perguntas Frequentes:**
+
+
+- As solicitações de férias são feitas via plataforma interna até 15 dias antes.
+- A aprovação é sujeita à aprovação do gestor e à cobertura da equipe.
+
+- A plataforma de treinamento pode ser acessada com as credenciais de login da rede interna.
+- Caso surjam problemas, entre em contato com o suporte técnico.
+
+- Problemas técnicos podem ser relatados ao Help Desk através do email suporte@techmaster.com.
+- Forneça detalhes precisos sobre o problema para uma resolução mais rápida.
+
+---
+
+Este exemplo de documento de conhecimento interno oferece um amplo detalhamento sobre a empresa, seus processos, políticas e respostas a perguntas frequentes. É importante manter o documento atualizado à medida que a empresa evolui e novas políticas e processos são implementados.
